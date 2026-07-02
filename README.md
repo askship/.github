@@ -24,7 +24,7 @@ You define **which parts of your product are extensible**, **who the approvers a
 
 | Repo | What it is |
 |---|---|
-| [`askship-workflow`](https://github.com/askship/askship-workflow) | The n8n workflow template — webhook intake, AI drafting, Slack approval gates, and the PR/merge step |
+| [`workflow`](https://github.com/askship/workflow) | The n8n workflow template — webhook intake, AI drafting, Slack approval gates, and the PR/merge step |
 | [`askship-widget`](https://github.com/askship/askship-widget) | The embeddable front-end widget — the "Request new X" button + form your app drops in |
 
 ## Status
